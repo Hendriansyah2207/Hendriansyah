@@ -1,6 +1,6 @@
-sapa = "Halo teman - teman"
-umur = 22
-tinggi = 170
-print(sapa+umur+tinggi)
+nama = Nama saya Hendri
+umur = umur saya 22 tahun
+tinggi = tinggi saya 173.5 cm
+print(nama)
 
 
